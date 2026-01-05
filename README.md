@@ -113,9 +113,9 @@ The dashboard is designed to be business-friendly and easy to interpret.
    git clone <repository-url>
    ```
 2. Open the Jupyter Notebook
-   ```bash
+   
    Run nifty50_data_cleaning_eda.ipynb for data cleaning and EDA
-   ```
+   
 3. Load data into PostgreSQL
 
    Use the provided SQL scripts to create tables and run queries
