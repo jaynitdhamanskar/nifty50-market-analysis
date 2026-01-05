@@ -13,7 +13,7 @@ The objective of this project is to demonstrate practical data analytics skills 
 
 ## Dataset
 
-**Source:** Publicly available NIFTY 50 historical market data (CSV)
+**Source:** [NIFTY 50 historical data](https://www.kaggle.com/datasets/vaibhavshinde97/nifty-50-historical-data/data)
 
 **Description:**  
 The dataset contains daily historical index data covering multiple years, including major market events.
